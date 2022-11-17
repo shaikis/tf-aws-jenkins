@@ -2,4 +2,4 @@
 ##Jenkins infra configuration
 ##
 
-<img src="https://github.com/shaikis/tf-aws-jenkins/blob/main/Untitled.jpg" style=" >
+![Jenkins Architecture](https://github.com/shaikis/tf-aws-jenkins/blob/main/Untitled.jpg)
